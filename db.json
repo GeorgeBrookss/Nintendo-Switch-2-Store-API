@@ -6,12 +6,12 @@
             "category": "Festa",
             "price": 299.9,
             "description": "Jogue o dado para correr pelo tabuleiro com outros competidores em busca de estrelas. Cada um dos 7 tabuleiros tem sua própria personalidade! Novas regras para Jamboree TV incluem partidas de 2 contra 2 e mais, se você conectar uma câmera USB-C® compatível (vendida separadamente), seu rosto aparecerá diretamente no jogo.",
-            "image": "/assets/images/gamesThumb/Mario Party Jamboree + Jamboree TV.avif",
+            "image": "/assets/images/gamesThumb/mario-party-jamboree.avif",
             "gallery": [
-                "/assets/images/gamesGallery/mariojamboree/Mario Party Jamboree + Jamboree TV.avif",
-                "/assets/images/gamesGallery/mariojamboree/Mario Party Jamboree + Jamboree TV 2.avif",
-                "/assets/images/gamesGallery/mariojamboree/Mario Party Jamboree + Jamboree TV 3.avif",
-                "/assets/images/gamesGallery/mariojamboree/Mario Party Jamboree + Jamboree TV 4.avif"
+                "/assets/images/gamesGallery/mariojamboree/mario-party-jamboree.avif",
+                "/assets/images/gamesGallery/mariojamboree/mario-party-jamboree 2.avif",
+                "/assets/images/gamesGallery/mariojamboree/mario-party-jamboree 3.avif",
+                "/assets/images/gamesGallery/mariojamboree/mario-party-jamboree 4.avif"
             ],
             "background": "/assets/images/gamesBackground/MarioParty.jpg",
             "sale": true,
@@ -110,12 +110,12 @@
             "category": "Aventura",
             "price": 279.9,
             "description": "A jogabilidade clássica dos jogos do Mario virou de ponta-cabeça com as flores fenomenais no jogo Super Mario Bros. Wonder! Estes itens revolucionários permitem que coisas fenomenalmente mirabolantes aconteçam! Veja canos ganharem vida, transforme-se em uma gigante bola com espinhos e muito mais.",
-            "image": "/assets/images/gamesThumb/Super Mario Bros Wonder + Belabel.avif",
+            "image": "/assets/images/gamesThumb/super-mario-wonder.avif",
             "gallery": [
-                "/assets/images/gamesGallery/mariowonder/supermariobros/Super Mario Bros Wonder + Belabel.avif",
-                "/assets/images/gamesGallery/mariowonder/supermariobros/Super Mario Bros Wonder + Belabel 2.avif",
-                "/assets/images/gamesGallery/mariowonder/supermariobros/Super Mario Bros Wonder + Belabel 3.avif",
-                "/assets/images/gamesGallery/mariowonder/supermariobros/Super Mario Bros Wonder + Belabel 4.avif"
+                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder.avif",
+                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder 2.avif",
+                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder 3.avif",
+                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder 4.avif"
             ],
             "background": "/assets/images/gamesBackground/mariowonder.jpg",
             "sale": false,
