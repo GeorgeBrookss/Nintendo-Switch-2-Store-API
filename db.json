@@ -112,10 +112,10 @@
             "description": "A jogabilidade clássica dos jogos do Mario virou de ponta-cabeça com as flores fenomenais no jogo Super Mario Bros. Wonder! Estes itens revolucionários permitem que coisas fenomenalmente mirabolantes aconteçam! Veja canos ganharem vida, transforme-se em uma gigante bola com espinhos e muito mais.",
             "image": "/assets/images/gamesThumb/super-mario-wonder.avif",
             "gallery": [
-                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder.avif",
-                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder 2.avif",
-                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder 3.avif",
-                "/assets/images/gamesGallery/mariowonder/supermariobros/super-mario-wonder 4.avif"
+                "/assets/images/gamesGallery/mariowonder/super-mario-wonder.avif",
+                "/assets/images/gamesGallery/mariowonder/super-mario-wonder 2.avif",
+                "/assets/images/gamesGallery/mariowonder/super-mario-wonder 3.avif",
+                "/assets/images/gamesGallery/mariowonder/super-mario-wonder 4.avif"
             ],
             "background": "/assets/images/gamesBackground/mariowonder.jpg",
             "sale": false,
